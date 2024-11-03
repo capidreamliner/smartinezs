@@ -76797,7 +76797,7 @@ A.acp.prototype={
 $1(a){return B.AQ},
 $S:462}
 A.Oi.prototype={
-O(a){var s,r=null,q=A.c5(a,B.ed,t.w).w,p=t.E,o=A.ajo(A.a([A.Fn(r,A.Fl(B.C3,r,r,r),50,this.c,r,r),A.nY("Contact",A.tn().$2$fontSize$fontWeight(50,B.av),r)],p),B.ay,B.aV,B.aW),n=$.dq,m=(n==null?$.dq=$.ja():n).iI("[DEFAULT]")
+O(a){var s,r=null,q=A.c5(a,B.ed,t.w).w,p=t.E,o=A.ajo(A.a([A.Fn(r,A.Fl(B.C3,r,r,r),50,this.c,r,r),A.nY("Portfolio",A.tn().$2$fontSize$fontWeight(50,B.av),r)],p),B.ay,B.aV,B.aW),n=$.dq,m=(n==null?$.dq=$.ja():n).iI("[DEFAULT]")
 A.dY(m,$.hk(),!0)
 n=A.ayT(new A.ej(m))
 s=n.c
@@ -76864,7 +76864,7 @@ $0(){return A.C8("https://www.linkedin.com/in/smartinezs")},
 $S:0}
 A.Gm.prototype={
 O(a){var s=null
-return new A.wb(B.FZ,"Flutter Demo",A.ajH(s,A.amo(B.Y,s,s,B.Gj),!0),s)}}
+return new A.wb(B.FZ,"Sebasti\xe1n Mart\xednez Santos",A.ajH(s,A.amo(B.Y,s,s,B.Gj),!0),s)}}
 A.w7.prototype={
 ak(){return new A.zS(A.a67(),null,null)}}
 A.zS.prototype={

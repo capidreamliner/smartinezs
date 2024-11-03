@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "valparaiso",
+            "request": "launch",
+            "type": "dart",
+            "args": ["--web-renderer", "html"]
+        },
+        {
+            "name": "valparaiso (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "args": ["--web-renderer", "html"]
+        },
+        {
+            "name": "valparaiso (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "args": ["--web-renderer", "html"]
+        }
+    ]
+}

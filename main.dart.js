@@ -82490,7 +82490,7 @@ s===$&&A.b()
 r=A.nS(B.D,g,g,g,B.aq,B.b_,g,g,new A.fH(f,g,g),g,g,!1,B.ac,100)
 q=A.d9(g,20,g)
 p=c>700
-o=A.eN("Planespotting",A.anx().$3$color$fontSize$fontWeight(B.i,p?120:70,B.ab),B.b6)
+o=A.eN("Planespotting",A.anx().$3$color$fontSize$fontWeight(B.i,p?120:50,B.ab),B.b6)
 n=A.d9(g,10,g)
 m=A.eN(e,A.iK().$3$color$fontSize$fontWeight(B.i,p?50:40,B.F),B.b6)
 l=A.d9(g,20,g)
